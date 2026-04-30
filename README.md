@@ -109,7 +109,7 @@ const giovaando = {
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-giovaando-1a1a1a?style=flat&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/giovaando)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-hello@giovaando.dev-1a1a1a?style=flat&logo=gmail&logoColor=ea4335)](mailto:hello@giovaando.dev)
+[![Email](https://img.shields.io/badge/Email-hello@giovaando.dev-1a1a1a?style=flat&logo=gmail&logoColor=ea4335)](mailto:giovanlado23@gmail.com)
 
 </div>
 
