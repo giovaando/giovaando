@@ -85,7 +85,7 @@ const giovaando = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=giovaando&theme=dark&background=0a0a0a&border=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&currStreakNum=ffffff&sideNums=888888" />
+<img src="https://streak-stats.demolab.com?user=giovaando&theme=dark&background=0a0a0a&border=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&currStreakNum=ffffff&sideNums=888888" />
 
 </div>
 
