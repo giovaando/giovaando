@@ -10,7 +10,7 @@
   ╚═════╝ ╚═╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝
 ```
 
-*Crafting seamless experiences from server to screen — where clean code meets thoughtful design.*
+*Crafting seamless experiences from server to screen — where clean code meets thoughtful deign.*
 
 [![Profile views](https://komarev.com/ghpvc/?username=giovaando&color=gray&style=flat&label=profile+views)](https://github.com/giovaando)
 &nbsp;&nbsp;
